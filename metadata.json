@@ -1,6 +1,6 @@
 {
-    "name": "Test Token",
-    "symbol": "TT",
-    "description": "Just a test for how to name your token, again and again ;)",
+    "name": "JestJot",
+    "symbol": "JJOT",
+    "description": "JestJot just arrived in solana to make the bull season look good for everyone ;)",
     "image": "https://raw.githubusercontent.com/psolite/testingsolana/master/tester.png"
   }
