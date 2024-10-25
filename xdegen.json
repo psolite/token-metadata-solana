@@ -2,5 +2,5 @@
     "name": "XDEGEN SOL",
     "symbol": "XSOL",
     "description": "solana test",
-    "image": "https://raw.githubusercontent.com/psolite/testingsolana/master/xdegen.png"
+    "image": "https://raw.githubusercontent.com/psolite/token-metadata-solana/refs/heads/master/xdegen.png"
   }
